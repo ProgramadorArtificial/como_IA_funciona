@@ -1,7 +1,7 @@
 # Teste de Normalização de Imagem
 Experimento realizado comparando alguns métodos de normalização de imagens para identificar qual apresenta melhores resultados.
 
-[Vídeo explicando o experimento e os resultados]()
+[Vídeo explicando o experimento e os resultados](https://youtu.be/gtXLImq9NqM)
 
 Os logs dos treinamentos realizados estão disponíveis no Tensorboard na pasta "runs_programador_artificial": `tensorboard --logdir runs_programador_artificial`. [Os gráficos também podem ser visto aqui](https://tensorboard.dev/experiment/wrEuwjsXRnq1Wjnq3wud7g/#scalars)
 
