@@ -3,3 +3,4 @@ Este repositório possui pastas com experimentos e alguns modelos simples criado
 
 ## Organização
 - **teste_normalizacao_imagem**: Possui experimentos realizados para comparar alguns métodos de normalização de imagens.
+- **classificacao_imagem**: Estudo de como funciona e como utilizar/treinar modelos de classificação de imagem.
