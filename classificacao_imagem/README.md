@@ -1,7 +1,7 @@
 # Como Classificação de Imagem Funciona
 Neste repositório estudou-se como um sistema de classificação funciona e como pode ser utilizado arquiteturas prontas disponíveis no framework Pytorch, inclusive utilizando os pesos pré-treinados para realizar um treinamento customizado. Explorando tanto modelo binários, quanto modelos com múltiplas classes.
 
-[Vídeo com todas as explicações]()
+[Vídeo com todas as explicações](https://youtu.be/aTorfSnlUfc)
 
 ## Pré-requisitos
 Caso deseje utilizar o Anaconda, está disponível o environment chamado “classification” e pode ser instalar usando o comando:
