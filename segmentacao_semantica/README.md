@@ -1,7 +1,7 @@
 # Como Segmantação Semântica de Imagens Funciona
 Neste repositório estudou-se como um sistema de segmentação semântica funciona e como pode ser treinado a arquitetura U-Net. Tendo o código modificado para facilitar a visualização do resultado do modelo para entender melhor o que são as máscaras de retorno de modelos de segmentação.
 
-[Vídeo com todas as explicações - Em breve]()
+[Vídeo com todas as explicações](https://youtu.be/-N6OtD9kIUo)
 
 ## Pré-requisitos
 Caso deseje utilizar o Anaconda, está disponível o environment chamado “semantic” e pode ser instalar usando o comando:
